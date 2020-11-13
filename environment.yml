@@ -1,4 +1,4 @@
-name: base
+name: volcano
 channels:
   - conda-forge
   - defaults
@@ -18,4 +18,4 @@ dependencies:
   - jupyter_contrib_nbextensions=0.5.1
   - jupyter_nbextensions_configurator=0.4.1
   - ipympl=0.5.8
-prefix: /Users/johnmaclennan/opt/anaconda3
+

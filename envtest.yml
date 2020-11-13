@@ -1,4 +1,4 @@
-name: base
+name: volctest
 channels:
   - conda-forge
   - defaults
@@ -345,4 +345,4 @@ dependencies:
   - zstd=1.4.5=h41d2c2f_0
   - pip:
     - jupyterlab==2.2.9
-prefix: /Users/johnmaclennan/opt/anaconda3
+# prefix: /Users/johnmaclennan/opt/anaconda3
